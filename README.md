@@ -2,7 +2,7 @@ Siteyi görüntülemek için [tıklayın](https://selindayioglu.github.io/bootst
 ## Özellikler
 + Css tarafında SASS yapısı ve Bootstrap frameworku kullanılarak tasarlanmıştır.
 ### Form Sayfası
-Sign in butonuna tıklayarak ulaşabildiğimiz [sigin.html](https://selindayioglu.github.io/bootstrap-scss-blog/signin.html) sayfası içerisinde istenilen özellikler bulunmaktadır:
+Sign in butonuna tıklayarak ulaşabildiğimiz [signin.html](https://selindayioglu.github.io/bootstrap-scss-blog/signin.html) sayfası içerisinde istenilen özellikler bulunmaktadır:
 + Başlık (textfield)
 + İçerik (textarea)
 + Category(dropbox list)
