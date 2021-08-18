@@ -1,4 +1,4 @@
-Siteyi görüntülemek için [tıklayın](https://selindayioglu.github.io/bootstrap-scss-blog/singlepage.html)
+Sitenin ekran videosu için [tıklayın](https://drive.google.com/file/d/12WVXNqleMnYXpa7YE0p_08mc9p6mFBkS/view?usp=sharing)
 ## Özellikler
 + Css tarafında SASS yapısı ve Bootstrap frameworku kullanılarak tasarlanmıştır.
 ### Form Sayfası
